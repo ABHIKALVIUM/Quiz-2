@@ -1,0 +1,136 @@
+[
+    {
+        "question": "What is the capital city of Australia?",
+        "optionA": "Sydney",
+        "optionB": "Melbourne",
+        "optionC": "Canberra",
+        "optionD": "Perth",
+        "answer": "Canberra"
+    },
+  
+    {
+        "question": "Who wrote 'The Great Gatsby'?",
+        "optionA": "F. Scott Fitzgerald",
+        "optionB": "Ernest Hemingway",
+        "optionC": "Jane Austen",
+        "optionD": "George Orwell",
+        "answer": "F. Scott Fitzgerald"
+    },
+  
+    {
+        "question": "Which planet is known as the 'Red Planet'?",
+        "optionA": "Venus",
+        "optionB": "Mars",
+        "optionC": "Jupiter",
+        "optionD": "Saturn",
+        "answer": "Mars"
+    },
+  
+    {
+        "question": "What is the largest mammal in the world?",
+        "optionA": "Elephant",
+        "optionB": "Blue Whale",
+        "optionC": "Giraffe",
+        "optionD": "Polar Bear",
+        "answer": "Blue Whale"
+    },
+  
+    {
+        "question": "Who is the author of 'To Kill a Mockingbird'?",
+        "optionA": "J.K. Rowling",
+        "optionB": "Harper Lee",
+        "optionC": "George Orwell",
+        "optionD": "Stephen King",
+        "answer": "Harper Lee"
+    },
+  
+    {
+        "question": "What color is the gemstone emerald?",
+        "optionA": "Blue",
+        "optionB": "Green",
+        "optionC": "Red",
+        "optionD": "Yellow",
+        "answer": "Green"
+    },
+  
+    {
+        "question": "In which year did the Titanic sink?",
+        "optionA": "1912",
+        "optionB": "1923",
+        "optionC": "1901",
+        "optionD": "1935",
+        "answer": "1912"
+    },
+  
+    {
+        "question": "What is the chemical symbol for gold?",
+        "optionA": "Au",
+        "optionB": "Ag",
+        "optionC": "Fe",
+        "optionD": "Cu",
+        "answer": "Au"
+    },
+  
+    {
+        "question": "Which ocean is the largest?",
+        "optionA": "Indian Ocean",
+        "optionB": "Atlantic Ocean",
+        "optionC": "Arctic Ocean",
+        "optionD": "Pacific Ocean",
+        "answer": "Pacific Ocean"
+    },
+  
+    {
+        "question": "Who is known as the 'Father of Modern Physics'?",
+        "optionA": "Isaac Newton",
+        "optionB": "Albert Einstein",
+        "optionC": "Galileo Galilei",
+        "optionD": "Nikola Tesla",
+        "answer": "Albert Einstein"
+    },
+  
+    {
+        "question": "Which country is famous for its tulip fields?",
+        "optionA": "France",
+        "optionB": "Netherlands",
+        "optionC": "Italy",
+        "optionD": "Spain",
+        "answer": "Netherlands"
+    },
+  
+    {
+        "question": "What is the speed of light in a vacuum?",
+        "optionA": "299,792 kilometers per second",
+        "optionB": "100,000 kilometers per second",
+        "optionC": "500,000 kilometers per second",
+        "optionD": "1 million kilometers per second",
+        "answer": "299,792 kilometers per second"
+    },
+  
+    {
+        "question": "Who discovered penicillin?",
+        "optionA": "Marie Curie",
+        "optionB": "Alexander Fleming",
+        "optionC": "Louis Pasteur",
+        "optionD": "Robert Koch",
+        "answer": "Alexander Fleming"
+    },
+  
+    {
+        "question": "What is the largest desert in the world?",
+        "optionA": "Sahara Desert",
+        "optionB": "Arabian Desert",
+        "optionC": "Antarctica",
+        "optionD": "Gobi Desert",
+        "answer": "Antarctica"
+    },
+  
+    {
+        "question": "Who wrote '1984'?",
+        "optionA": "Aldous Huxley",
+        "optionB": "George Orwell",
+        "optionC": "Ray Bradbury",
+        "optionD": "Jules Verne",
+        "answer": "George Orwell"
+    }
+]
